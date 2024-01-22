@@ -1,6 +1,6 @@
 alert("¡Bienvenida y bievenido a nuestro sitio web!");
 
-// let nombre = "Luna";
+// let nombre = "SOL";
 // let edad = 25;
 // let numeroDeVentas = 50;
 // let saldoDisponible = 1000;
